@@ -1,0 +1,12 @@
+    Partie 2 Exercice Initpy-00
+
+  1)ls -a 
+     ls
+     ls -R
+
+  2)  cd unix 
+     wc exo1.txt
+
+  3) wc -l exo1.txt
+
+  history >> exo2.txt
